@@ -1,0 +1,3 @@
+include ':BfcBlockCanarySdk-no-op'
+include ':BfcBlockCanarySdk'
+include ':BfcBlockCanaryDemo'

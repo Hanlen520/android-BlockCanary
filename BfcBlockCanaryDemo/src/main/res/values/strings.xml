@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BlockCanary</string>
+
+    <string name="hello_world">After click button, main-thread consuming event will be triggered, which would be caught be BlockCanary, write to log file, and use notification to display</string>
+    <string name="thread_waiting">Thread\nwait\nblock</string>
+    <string name="io_waiting">IO\nblock</string>
+    <string name="cpu_busy">Computation\nblock</string>
+    <string name="more">more</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="config">config</string>
+    <string name="test">test</string>
+    <string name="delete_all">Delete all</string>
+    <string name="go_to_notification_setting">Go to setting</string>
+    <string name="notification_tip">通知未授权,请到"设置"->"通知管理"中授权通知.</string>
+
+    <string name="block_canary_display_activity_label">BlocksInDemo</string>
+</resources>
